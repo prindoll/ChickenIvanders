@@ -2,9 +2,9 @@
 Tên: Lê Quang Thắng
 MSSV: 22021209
 
-#Chicken Ivanders
+# ChickenIvander
 
-##Giới thiệu
+## Giới thiệu về game
 
 Game được xây dựng bằng ngôn ngữ C++ và thư viện đồ họa SDL2.
 
