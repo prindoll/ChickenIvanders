@@ -1,5 +1,3 @@
-* Họ và tên: Lê Quang Thắng
-* MSSV: 22021209
 
 # Nội dung
 * Một tựa game bắn gà, hạ ngục chúng để dành chiến thắng
